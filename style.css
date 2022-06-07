@@ -1,0 +1,102 @@
+body{
+    background: #f3f0ec;
+}
+
+.wrapper{
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+
+.img1{
+    height: 600px;
+    width: 1080px;
+    margin-top: 50px;
+    margin-left: 200px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+h1{
+  font-size: 2rem !important;
+}
+
+h4{
+  font-size: 1.0rem !important;
+}
+
+.img2{
+    position: absolute;
+    top: 80px;
+    left: 975px;
+}
+
+.heading{
+    position: absolute;
+    top: 320px;
+    left: 1030px;
+    color: white;
+}
+
+.foot{
+    position: absolute;
+    top: 600px;
+    left: 1023px;
+    color: lightgray;
+}
+
+.fb{
+    position: absolute;
+    top: 410px;
+    left: 1025px;
+    color: white;
+}
+
+.ld{
+    position: absolute;
+    top: 410px;
+    left: 1065px;
+    color: white; 
+}
+
+.ig{
+    position: absolute;
+    top: 410px;
+    left: 1105px;
+    color: white; 
+}
+
+.tw{
+    position: absolute;
+    top: 410px;
+    left: 1145px;
+    color: white; 
+}
+
+.but{
+    position: absolute;
+    top: 480px;
+    left: 1065px;
+    color: white;
+}
+
+.fm{
+    width: 1100px;
+    height: 400px;
+    position: relative;
+    z-index: 10;
+}
+
+.card-body{
+    background: black;
+}
+
+.form-label, .form-check-label, h6{
+    color: white !important;
+}
+
+.card{
+    --bs-card-border-color: none;
+}
