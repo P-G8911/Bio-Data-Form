@@ -1,4 +1,4 @@
 # Bio-Data-Form
 
 <hr>
-<img src = '/images/backimg.png'>
+<img src = './images/backimg.png'>
